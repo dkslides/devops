@@ -320,7 +320,7 @@ Infrastructure
 ---
 
 ## Cross Functional Teams are awesome
-### But cross functional means more than front end, back end and ops working together
+### But cross functional means more than front&nbsp;end, back&nbsp;end and ops working together
 
 ---
 
