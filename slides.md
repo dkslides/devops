@@ -289,11 +289,11 @@ Infrastructure
 ---
 
 <img src="src/images/into-27.png" height=480>
-> And all they lived happily ever after
+> And they all lived happily ever after
 
 ---
 
-> And all they lived happily ever after
+> And they all lived happily ever after
 
 ---
 
