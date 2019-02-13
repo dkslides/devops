@@ -128,7 +128,7 @@ Buy his book
 ---
 
 <img src="src/images/into-23.png" height=480>
-> Automated Testing, TDD
+> Automated Testing
 
 ---
 
