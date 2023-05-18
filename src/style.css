@@ -30,7 +30,6 @@ body {
 }
 
 .reveal {
-  background-image: url("images/logos/oil-protobadge.png"), url("images/logos/redhat-logo.png");
   background-size: 140px, 110px;
   background-position: 7% 98%, 93% 98%; /*Positioning*/
   background-repeat: no-repeat; /*Prevent showing multiple background images*/

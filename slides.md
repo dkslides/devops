@@ -1,26 +1,14 @@
 ---
-title: DevOps at RedHat
+title: Achieving DevOps
 revealOptions:
   transition: none
 ---
 
-# DevOps
-## The Red Hat Way
+# Achieving DevOps
 <hr>
-Dmytri Kleiner<br>
-Senior Architect, Red Hat Open Innovation Labs
-dk@redhat.com<br>
-@dmytri
-
----
-
-# Red Hat Makes
-# Linux
-
----
-
-# Containers are
-# Linux
+Dima<br>
+Senior Manager, Engineering Excellence
+dmitri_kleiner@epam.com<br>
 
 ---
 
@@ -87,14 +75,6 @@ dk@redhat.com<br>
 
 <img src="src/images/into-20.png" height=480>
 > Build the DevOps loop
-
----
-
-*Drawings from Mike Hepburn*
-
-<img src="src/images/book.jpg" width=300>
-
-Buy his book
 
 ---
 
@@ -344,7 +324,6 @@ And Marketing, Sales, Customer Success, and Support should be up in there to
 
 ---
 
-
 # What stands in the way is not technical
 
 ---
@@ -360,7 +339,6 @@ And Marketing, Sales, Customer Success, and Support should be up in there to
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/OqmdLcyES_Q" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 
 ---
 
